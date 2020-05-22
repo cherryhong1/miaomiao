@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # shopsystem
 
 ## Project setup
@@ -27,3 +28,7 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# miaomiao
+vue喵喵电影
+>>>>>>> 1c457b2cfb1b69d7b117fc54dcba1d68440d25a5
